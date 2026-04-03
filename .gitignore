@@ -3,4 +3,7 @@ SECRET_KEY =
 ALGORITHM = 
 alembic.ini
 .env
-.env
+alembic.ini
+*.ini
+alembic.ini
+alembic.ini
